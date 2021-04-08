@@ -87,6 +87,10 @@ display: grid;
   background:#ff4466;
 }
 
+.letter { 
+  font-size: 2em;
+}
+
 
 /* CARDS */
 
